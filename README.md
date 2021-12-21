@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 
 
 - 🔭 I'm currently working on uncertainty quantification using Python 
-- 🌱 I’m currently learning R & data science
-- 🥅 2022 Goals: Learn 3D printing & IoT basics
 
 ### Connect with me:
 
