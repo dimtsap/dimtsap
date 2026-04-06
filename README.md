@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-- 🔭 I'm currently working on uncertainty quantification using Python 
-
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
